@@ -1,0 +1,32 @@
+{
+  "English": [
+    {
+      "level": "begginer",
+      "type" :"individual",
+      "form":"online",
+      "duration": "1 month"
+    },
+    {
+      "level": "elementary",
+      "type" :"individual",
+      "form":"offline",
+      "duration": "2,5 months", 
+      "payment" : 7000
+      
+    },
+    {
+      "level": "pre-intermediate",
+      "type" :"individual",
+      "form":"online",
+      "duration": "4 months",
+      "payment" : 12500
+    },
+    {
+      "level": "intermediate",
+      "type" :"individual",
+      "form":"online",
+      "duration": "4 months",
+      "payment" : 13000
+    }
+    ]
+}
