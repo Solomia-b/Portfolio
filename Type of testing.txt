@@ -1,0 +1,56 @@
+Testing types:
+
+
+
+Load testing: Check whether 500 users can register on the site simultaneously.
+
+
+Stress testing: Verify if the Comfy site works when 15,000 users place orders simultaneously.
+
+
+Recovery testing: Check if the page reloads after the 404 not found error.
+
+
+Volume testing: Check whether there will be no data loss when the database is double.
+
+
+Scalability testing: Check the site's response time when there will be 10 and 1000 users.
+
+
+Soak testing: Check how the site will behave when 3,000 users browse the products within 12 hours.
+
+
+UI testing:  Check whether the "Catalog" drop-down menu is on the right side of the site's home page.
+
+
+Usability testing: Check if a prompt appears when the user enters a password in the signup form.
+
+
+Configuration testing: Check if images are displayed correctly on Google Chrome and Opera.
+
+
+Portability testing: Load the site on Android in the Opera Mini browser and check if the site is displayed correctly.
+
+
+L10N testing: Change the site's language to English and check that all the site's functionality will be in English.
+
+
+I18N testing: Switch the language to eng and check whether the product delivery date on the Delivery page will correspond to the American format.
+
+
+Re-testing: Enter invalid data in the e-mail field in the registration form.
+ 
+
+Regression testing: Add Смартфон Samsung Galaxy S23 8/128Gb Black (SM-S911BZKDSEK) to the cart.
+
+
+Sanity testing: Try to enter your account by entering valid data in the email and password fields.
+
+
+Smoke testing: Try registering on the Comfy website using a Google account.
+
+
+Security testing: Enter your password in the "password" field and check if it converts to dots.
+
+
+End-to-end testing: Add to favorites LG 43UQ75006LF TV by going to the Comfy website and entering the name of the TV in the search box.
