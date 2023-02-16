@@ -36,7 +36,13 @@ L10N testing: Change the site's language to English and check that all the site'
 
 
 I18N testing: Switch the language to eng and check whether the product delivery date on the Delivery page will correspond to the American format.
+
+
+Re-testing: Enter invalid data in the e-mail field in the registration form.
  
+
+Regression testing: Add Смартфон Samsung Galaxy S23 8/128Gb Black (SM-S911BZKDSEK) to the cart.
+
 
 Sanity testing: Try to enter your account by entering valid data in the email and password fields.
 
@@ -48,11 +54,3 @@ Security testing: Enter your password in the "password" field and check if it co
 
 
 End-to-end testing: Add to favorites LG 43UQ75006LF TV by going to the Comfy website and entering the name of the TV in the search box.
-
-
-Regression testing: Add Смартфон Samsung Galaxy S23 8/128Gb Black (SM-S911BZKDSEK) to the cart.
-
-
-Re-testing: Enter invalid data in the e-mail field in the registration form.
-
-
